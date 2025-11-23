@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Swami.N\\Downloads\\CleanArchMicroserviceFull\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39A410A-3437-4749-A4FF-0F4B9607B896}|src\\Application\\Application.csproj|c:\\users\\swami.n\\downloads\\cleanarchmicroservicefull\\src\\application\\todoitems\\commands\\createtodo\\createtodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39A410A-3437-4749-A4FF-0F4B9607B896}|src\\Application\\Application.csproj|solutionrelative:src\\application\\todoitems\\commands\\createtodo\\createtodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39A410A-3437-4749-A4FF-0F4B9607B896}|src\\Application\\Application.csproj|c:\\users\\swami.n\\downloads\\cleanarchmicroservicefull\\src\\application\\todoitems\\queries\\gettodobyid\\gettodobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39A410A-3437-4749-A4FF-0F4B9607B896}|src\\Application\\Application.csproj|solutionrelative:src\\application\\todoitems\\queries\\gettodobyid\\gettodobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39A410A-3437-4749-A4FF-0F4B9607B896}|src\\Application\\Application.csproj|c:\\users\\swami.n\\downloads\\cleanarchmicroservicefull\\src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39A410A-3437-4749-A4FF-0F4B9607B896}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTodoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Swami.N\\Downloads\\CleanArchMicroserviceFull\\src\\Application\\TodoItems\\Commands\\CreateTodo\\CreateTodoCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\TodoItems\\Commands\\CreateTodo\\CreateTodoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Swami.N\\Downloads\\CleanArchMicroserviceFull\\src\\Application\\TodoItems\\Commands\\CreateTodo\\CreateTodoCommandHandler.cs*",
+              "RelativeToolTip": "src\\Application\\TodoItems\\Commands\\CreateTodo\\CreateTodoCommandHandler.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:32:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTodoByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Swami.N\\Downloads\\CleanArchMicroserviceFull\\src\\Application\\TodoItems\\Queries\\GetTodoById\\GetTodoByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\TodoItems\\Queries\\GetTodoById\\GetTodoByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Swami.N\\Downloads\\CleanArchMicroserviceFull\\src\\Application\\TodoItems\\Queries\\GetTodoById\\GetTodoByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\TodoItems\\Queries\\GetTodoById\\GetTodoByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:32:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Swami.N\\Downloads\\CleanArchMicroserviceFull\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Swami.N\\Downloads\\CleanArchMicroserviceFull\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:25:09.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
